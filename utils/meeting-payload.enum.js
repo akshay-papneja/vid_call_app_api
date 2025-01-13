@@ -15,6 +15,7 @@ const MeetingPayloadEnum = {
     VIDEO_TOGGLE: 'video-toggle',
     AUDIO_TOGGLE: 'audio-toggle',
     NOT_FOUND: 'not-found',
+    STREAM_CHANGED: "stream-changed", // Add this line
     UNKNOWN: 'unknown'
 }
 
